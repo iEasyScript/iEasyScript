@@ -8,7 +8,6 @@ Currently building **Project X**, a botting platform supporting both **RuneScape
 
 <img width="2073" height="758" alt="image" src="https://github.com/user-attachments/assets/33c93466-596b-489a-8b4e-770121fa9356" />
 
-
 ---
 
 # 🚀 Project X
@@ -112,14 +111,6 @@ Building scripts and tooling designed around the Project X ecosystem.
 ### 🌐 Web & Backend
 
 Supporting services, APIs, dashboards and infrastructure surrounding the platform.
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iEasyScript\&show_icons=true\&hide_border=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iEasyScript\&layout=compact\&hide_border=true\&theme=dark)
 
 ---
 
